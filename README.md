@@ -11,7 +11,7 @@
   CORS enabled for cross-origin requests.
   MongoDB used for data storage.
 
-**  Tech Stack**
+**Tech Stack**
 
   Node.js: Backend runtime environment.
   Express.js: Web framework for building APIs.
@@ -21,7 +21,7 @@
   dotenv: Environment variables management.
   CORS: Allow cross-origin requests for development.
 
-**  Usage**
+**Usage**
 
   After setting up and running the backend server, you can interact with it using tools like Postman or from a frontend application.
   Make sure to pass the JWT token in the Authorization header when making requests to protected routes (e.g., task creation, viewing tasks).
